@@ -17,11 +17,21 @@
 ## About Me
 
 ```yaml
-name: Gaurav Kumar Dubey
-location: Jalandhar, India
-role: Software Developer
+name: Sourav Kumar Dubey
+location: Bangalore, India
+role: Software Development Engineer @ Amadeus Software Labs
 interests:
   - Full Stack Web Development
+  - Distributed Systems
+  - Competitive Programming
+  - Open Source
+currently_building:
+  - codex: Distributed code execution engine in Docker sandboxes
+  - crackd: AI-powered job preparation platform
+  - chatly: Real-time chat app with modern web stack
+achievements:
+  - 2x ICPC Regionalist
+  - Expert @ Codeforces
 ```
 
 ---
